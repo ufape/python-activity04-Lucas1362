@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# YOUR FULL NAME
+# Jamerson Lucas Tenorio
 # UAG00098
 # Problem Set 4 - Problem 1
 # Description:
@@ -55,11 +55,12 @@ Aluno aprovado.
 =-=-=-=-=-=-=-=-=-=
 
 """
-
+from library_problem_1 import media
 
 def main():
-    pass  # your code here
-
+    print("=-=-=-=-=-=-=-=-=-=")
+    media()
+    print("=-=-=-=-=-=-=-=-=-=")
 
 if __name__ == '__main__':
     main()
