@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# YOUR FULL NAME
+# Jamerson Lucas Tenorio 
 # UAG00098
 # Problem Set 4 - Problem 5
 # Description:
@@ -28,11 +28,14 @@ Teste 2: 51
 Teste 3: 7
 7 é primo.
 """
-
+from library_problem_5 import teste
 
 def main():
-    pass  # your code here
+    teste()
 
 
 if __name__ == '__main__':
     main()
+
+
+
