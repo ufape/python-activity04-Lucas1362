@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# YOUR FULL NAME
+# Jamerson Lucas Tenorio
 # UAG00098
 # Problem Set 4 - Problem 3
 # Description:
@@ -27,11 +27,13 @@ Os números são..: 12 13 17
 =-=-=-=-=-=-=-=-=-=
 
 """
-
+from library_problem_3 import soma
 
 def main():
-    pass  # your code here
-
+    print("=-=-=-=-=-=-=-=-=-=")
+    soma()
+    print("=-=-=-=-=-=-=-=-=-=")
 
 if __name__ == '__main__':
     main()
+
