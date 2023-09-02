@@ -6,7 +6,7 @@ def resultado():
                 soma == 1
         return soma == n
 
-    def tester_numeros_perfeitos():
+    def testar_numeros_perfeitos():
         n = int(input("Digite quantos testes realizará: "))
         for i in range(1, n + 1):
             x = int(input(f"Test {i}: "))
@@ -15,4 +15,4 @@ def resultado():
             else:
                 print(f"{x} não é perfeito.")
 
-    testar_numeros_perfeitos()
+     testar_numeros_perfeitos()
