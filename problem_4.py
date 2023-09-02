@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# YOUR FULL NAME
+# Jamerson Lucas Tenorio 
 # UAG00098
 # Problem Set 4 - Problem 4
 # Description:
@@ -28,11 +28,13 @@ Teste 2: 5
 Teste 3: 28
 28 é perfeito.
 """
-
+from library_problem_4 import resultado
 
 def main():
-    pass  # your code here
+    resultado()
 
 
 if __name__ == '__main__':
     main()
+
+
