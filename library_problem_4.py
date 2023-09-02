@@ -15,4 +15,4 @@ def resultado():
             else:
                 print(f"{x} não é perfeito.")
 
-     testar_numeros_perfeitos()
+    testar_numeros_perfeitos()
